@@ -214,6 +214,7 @@ defaults:
       path: ""
       type: teaching
     values:
+    
       layout: single
       read_time: false
       author_profile: true
@@ -229,22 +230,22 @@ defaults:
       share: true
       comments: true
   # _expressions
-  - scope:
-      path: ""
-      type: expressions
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+#  - scope:
+#      path: ""
+#      type: expressions
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
+#      comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+#  - scope:
+#      path: ""
+#      type: talks
+#    values:
+#      layout: talk
+#      author_profile: true
+#      share: true
       
 # Sass/SCSS
 sass:
