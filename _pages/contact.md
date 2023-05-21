@@ -4,8 +4,10 @@ title: "Contact"
 excerpt: "Contact me"
 author_profile: true
 ---
-Contact information is below, including email and various web services.  This is to make it easy for people to find me when they search for things like "stuart geiger email" and get wrong pages on my site. Also, my full name is Richard Stuart Geiger, even though I just go by Stuart. I show up as "Geiger, Richard Stuart" in various administrative databases. Here are some other places on the Internet where I reside.
+Please find my contact information below, including my email address and other web services. While my full name is Tsai, Cheng-Hong, for ease of readability and contact, I am commonly referred to as "Xavier Cheng-Hong Tsai" in various publications and websites.
 
-* E-mail: xavierchtsai [at] ntu.edu.tw
+* E-mail: xavierchtsai@ntu.edu.tw
 * Twitter: [TsaiChengHong](https://twitter.com/TsaiChengHong)
-* Google Scholar: [author:Xavier Cheng-Hong Tsai](https://scholar.google.com.tw/citations?user=ZkDKsLsAAAAJ&hl=en)
+* Google Scholar: [Xavier Cheng-Hong Tsai](https://scholar.google.com.tw/citations?user=ZkDKsLsAAAAJ&hl=en)
+* ORCID: [Xavier Cheng-Hong Tsai](https://orcid.org/0000-0002-4174-8766) 
+* NTU Scholars: [Cheng-Hong Tsai](https://scholars.lib.ntu.edu.tw/cris/rp/rp08290)
