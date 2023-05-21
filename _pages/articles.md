@@ -21,3 +21,5 @@ You can also find my articles on <u><a href="https://scholar.google.com.tw/citat
 * Lee WH, Lin CC, Wang YH, Yao CY, Kuo YY, Tseng MH, Peng YL, Hsu CA, Sun HI, Chuang YK, Hsu CL, Tien FM, Tsai CH, Chou WC, Hou HA, Tien HF. Distinct genetic landscapes and their clinical implications in younger and older patients with myelodysplastic syndromes. Hematol Oncol. 2022 Nov 24.
 * Wang YH, Yao CY, Lin CC, Chen CL, Hsu CL, Tsai CH, Hou HA, Chou WC, Tien HF. Higher RUNX1 expression levels are associated with worse overall and leukaemia-free survival in myelodysplastic syndrome patients. EJHaem. 2022 Aug 19;3(4):1209.
 * Huang CW, Tsai CH, Lin CW. Optic neuropathy after chimeric antigen receptor T-cell therapy. J Formos Med Assoc. 2022 May;121(5):1012.
+
+
