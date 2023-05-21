@@ -50,14 +50,14 @@ read_more                : "enabled" # if enabled, adds a "read more" link to ex
 future                   : true
 
 # SEO Related
-google_site_verification : "3hdu0GcCfjZ6WbPpApjcdcEGjsCPDcDn1QLtBm-DRBg"
+google_site_verification : 
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "staeiou"
+  username               : 
 facebook:
   username               : 
   app_id                 :
@@ -79,14 +79,14 @@ social:
 
 # Site Author
 author:
-  name             : "R. Stuart Geiger"
+  name             : "Xavier Cheng-Hong Tsai"
   avatar           : "oban3.jpg"
 #  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego: <ul><li><a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a></li> <li><a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a></li></ul>"
 #  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego, in <ul> <li><a style="color: black;" href="http://communication.ucsd.edu">Department of Communication</a></li> <li><a style="color: black;" href="http://hdsi.ucsd.edu">Halıcıoğlu Data Science Institute</a></li> <li><a style="color: black;" href="http://ipe.ucsd.edu">Institute for Practical Ethics</a></li> </ul>"
-  bio              : "Ethnographer of computation and computational ethnographer <br> <br> Assistant Professor at UC San Diego, <a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a> & <a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a>"
-  location         : "San Diego, CA"
+  bio              : "<br> <br> Assistant Professor and Attending Physician at National Taiwan University Hospital, <a style='color: black;' href='https://www.ntuh.gov.tw/ntuh/Index.action?l=en_US'>Department of Internal Medicine</a>"
+  location         : "Taipei, Taiwan"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com.tw/citations?user=ZkDKsLsAAAAJ&hl=en"
   email            :
   uri              : 
   bitbucket        :
@@ -95,19 +95,19 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "staeiou"
+  github           : 
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-7215-0532"
+  orcid            : "http://orcid.org/0000-0002-4174-8766"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : *twitter
+  twitter          : 
   vine             :
   weibo            :
   xing             :
