@@ -2,7 +2,10 @@
 main:
   - title: "Publications"
     url: /articles/
-    
+  
+  - title: "Bio"
+    url: /bio/
+  
   - title: "CV"
     url: /cv/
   
