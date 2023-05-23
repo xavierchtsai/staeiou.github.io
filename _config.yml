@@ -7,17 +7,17 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "     Home     "
+title                    : "Xavier CH Tsai's Homepage"
 title_separator          : "-"
-name                     : &name "Xavier ChengHong Tsai"
-description              : &description "computational ethnographer<br/>ethnographer of computation"
+name                     : &name "Xavier Cheng-Hong Tsai"
+#description              : &description "computational ethnographer<br/>ethnographer of computation"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xavierchtai/xavierchtsai.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 seo_description          : "Site for Xavier Cheng-Hong Tsai, Assistant Professor and Attending Physician at National Taiwan University Hospital"
-words_per_minute         : 160
+words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -92,7 +92,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : "https://www.flickr.com/photos/xavierchtsai/albums"
   facebook         : 
   foursquare       :
   github           : 
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/xavier-cheng-hong-tsai-18557191/"
   orcid            : "http://orcid.org/0000-0002-4174-8766"
   pinterest        :
   soundcloud       :
