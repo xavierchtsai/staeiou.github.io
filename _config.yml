@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "     Home     "
 title_separator          : "-"
 name                     : &name "Xavier ChengHong Tsai"
 description              : &description "computational ethnographer<br/>ethnographer of computation"
