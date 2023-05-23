@@ -1,9 +1,11 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /articles/
 author_profile: true
 ---
+
+{% include base_path %}
+
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com.tw/citations?user=ZkDKsLsAAAAJ&hl=en)
 
 **2023**
