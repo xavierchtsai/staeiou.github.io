@@ -78,7 +78,11 @@ social:
 #  google:
 #    tracking_id          : "UA-79273-2"
 
-
+# Analytics
+analytics:
+  provider               :  "google analytics 4" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : "G-W0ZGH6HXD8"
 
 # Site Author
 author:
@@ -174,12 +178,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
-# SEO Related
-google_site_verification : "j9geeAigE8Ap3D2-3fU1R6MWrMxO_W9OICxqcKx6MMQ"
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
 
 # Collections
 collections:
