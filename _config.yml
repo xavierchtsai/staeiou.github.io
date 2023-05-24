@@ -1,7 +1,4 @@
-
----
-layout: splash
----
+minimal_mistakes_skin    : "
 
 # Site Settings
 locale                   : "en-US"
@@ -59,7 +56,7 @@ twitter:
 facebook:
   username               : 
   app_id                 :
-  publisher              :
+  p0ublisher              :
 og_image                 : "site-logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -110,7 +107,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  # wikipedia      :
+  wikipedia      :
 
 
 # Reading Files
@@ -215,8 +212,8 @@ defaults:
       path: ""
       type: teaching
     values:
-    
-      layout: single
+       layout: single
+       classes: wide
       read_time: false
       author_profile: true
       share: false
@@ -237,7 +234,8 @@ defaults:
 #      type: expressions
 #    values:
 #      layout: single
-#      author_profile: true
+#    classes: wide
+# author_profile: true
 #      share: true
 #      comment: true
   # _talks
@@ -246,6 +244,7 @@ defaults:
 #      type: talks
 #    values:
 #      layout: talk
+#  classes: wide
 #      author_profile: true
 #      share: true
       
