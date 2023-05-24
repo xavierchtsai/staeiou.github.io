@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - "/wordpress/"
   - "/wordpress/index.html"
+classes: wide
+
 ---
 
 {% include base_path %}
