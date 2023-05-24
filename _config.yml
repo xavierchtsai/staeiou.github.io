@@ -212,6 +212,7 @@ defaults:
       layout: single
       classes: wide
       author_profile: true
+
   # _teaching
   - scope:
       path: ""
