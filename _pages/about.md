@@ -18,6 +18,8 @@ classes: wide
   gtag('config', 'G-W0ZGH6HXD8');
 </script>
 
+<meta name="google-site-verification" content="kg_eQwWzLubG-paLo2Nk7MU2-yrLnee_VTG9RyETojM" />
+
 I am a dedicated hematologist currently serving as an attending physician at [National Taiwan University Hospital](https://www.ntuh.gov.tw/ntuh/ntuhgroup.jsp). With an unwavering commitment to patient care and research, I have been actively engaged in this role since 2019. Previously, I had the privilege of working as an attending physician at the Tai-Chen Stem Cell Therapy Center, affiliated with National Taiwan University, from 2015 to 2019. My primary areas of interest lie in acute myeloid leukemia, aplastic anemia, and hematopoietic stem cell transplantation, where I have been actively engaged in comprehensive patient care and cutting-edge research. I am currently honored to hold the position of Secretary General within the [Taiwan Society of Blood and Marrow Transplantation](http://www.tbmt.org.tw/). My long-term goal is to leverage translational knowledge to enhance patients' outcomes while minimizing treatment toxicities.
 
 ## My background and history
