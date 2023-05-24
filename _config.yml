@@ -53,8 +53,8 @@ read_more                : "enabled" # if enabled, adds a "read more" link to ex
 future                   : true
 
 # SEO Related
-google_site_verification : 
-bing_site_verification   :
+google_site_verification : "j9geeAigE8Ap3D2-3fU1R6MWrMxO_W9OICxqcKx6MMQ"
+bing_site_verification   : "86C3675921F03884075982EFC86AB854"
 alexa_site_verification  :
 yandex_site_verification :
 
