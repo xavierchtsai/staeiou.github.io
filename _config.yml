@@ -219,6 +219,7 @@ defaults:
     values:
     
       layout: single
+       classes: wide
       read_time: false
       author_profile: true
       share: false
@@ -239,6 +240,7 @@ defaults:
 #      type: expressions
 #    values:
 #      layout: single
+#      classes: wide
 #      author_profile: true
 #      share: true
 #      comment: true
@@ -248,6 +250,7 @@ defaults:
 #      type: talks
 #    values:
 #      layout: talk
+#      classes: wide
 #      author_profile: true
 #      share: true
       
