@@ -1,9 +1,4 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+minimal_mistakes_skin    : "
 
 # Site Settings
 locale                   : "en-US"
@@ -61,7 +56,7 @@ twitter:
 facebook:
   username               : 
   app_id                 :
-  publisher              :
+  p0ublisher              :
 og_image                 : "site-logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -100,7 +95,7 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/xavier-cheng-hong-tsai-18557191/"
+  linkedin         : "https://tw.linkedin.com/in/xavier-cheng-hong-tsai-18557191"
   orcid            : "http://orcid.org/0000-0002-4174-8766"
   pinterest        :
   soundcloud       :
@@ -112,7 +107,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  # wikipedia      :
+  wikipedia      :
 
 
 # Reading Files
@@ -218,8 +213,8 @@ defaults:
       path: ""
       type: teaching
     values:
-    
-      layout: single
+       layout: single
+       classes: wide
       read_time: false
       author_profile: true
       share: false
@@ -240,7 +235,8 @@ defaults:
 #      type: expressions
 #    values:
 #      layout: single
-#      author_profile: true
+#    classes: wide
+# author_profile: true
 #      share: true
 #      comment: true
   # _talks
@@ -249,6 +245,7 @@ defaults:
 #      type: talks
 #    values:
 #      layout: talk
+#  classes: wide
 #      author_profile: true
 #      share: true
       
