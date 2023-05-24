@@ -2,6 +2,7 @@
 title: "Publications"
 permalink: /articles/
 author_profile: true
+classes: wide
 ---
 
 {% include base_path %}
