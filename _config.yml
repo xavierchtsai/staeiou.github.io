@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-google-site-verification:"j9geeAigE8Ap3D2-3fU1R6MWrMxO_W9OICxqcKx6MMQ"
+
 
 # Site Settings
 locale                   : "en-US"
@@ -175,6 +175,11 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# SEO Related
+google_site_verification : "j9geeAigE8Ap3D2-3fU1R6MWrMxO_W9OICxqcKx6MMQ"
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
 
 # Collections
 collections:
