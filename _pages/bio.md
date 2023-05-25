@@ -5,12 +5,12 @@ author_profile: true
 classes: wide
 ---
 
-*Education and training*
-***
+**Education and training**
+---
 - 2016-2021 Ph.D. in Genome and Systems Biology Degree Program, National Taiwan University and Academia Sinica.<br>
-Thesis: Applying Next-generation Sequencing to Explore the Risk Stratification in Acute Myeloid Leukemia Patients
+*Thesis: Applying Next-generation Sequencing to Explore the Risk Stratification in Acute Myeloid Leukemia Patients*
 - 2014-2016 MS.c. in Graduate Institute of Clinical Medicine, National Taiwan University.<br>
-Thesis: The Clinical Implication and Prognostic Impact of Dynamic Genetic Evolution in Myelodysplastic Syndrome
+*Thesis: The Clinical Implication and Prognostic Impact of Dynamic Genetic Evolution in Myelodysplastic Syndrome*
 - 2013 Jul-2015 Jun. Fellowship training in hematology at National Taiwan University Hospital.
 - 2010 Jul-2013 Jun. Residency training in general internal medicine at National Taiwan University Hospital.
 - 2004-2010 M.D. in College of Medicine, National Taiwan University.
