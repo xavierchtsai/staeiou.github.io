@@ -1,20 +1,20 @@
 ---
-permalink: /bio/
 title: "Bio"
-excerpt: "biography"
+permalink: /bio/
 author_profile: true
+classes: wide
 ---
 
-#Education and training
-1.	2016-2021 Ph.D. in Genome and Systems Biology Degree Program, National Taiwan University and Academia Sinica
+>==Education and training==
+>>1.	2016-2021 Ph.D. in Genome and Systems Biology Degree Program, National Taiwan University and Academia Sinica. 
 Thesis: Applying Next-generation Sequencing to Explore the Risk Stratification in Acute Myeloid Leukemia Patients
-2.	2014-2016 MS.c. in Graduate Institute of Clinical Medicine, National Taiwan University
+>>2.	2014-2016 MS.c. in Graduate Institute of Clinical Medicine, National Taiwan University. 
 Thesis: The Clinical Implication and Prognostic Impact of Dynamic Genetic Evolution in Myelodysplastic Syndrome
-3.	2013 Jul-2015 Jun. Fellowship training in hematology at National Taiwan University Hospital 
-4.	2010 Jul-2013 Jun. Residency training in general internal medicine at National Taiwan University Hospital 
-5.	2004-2010 M.D. in College of Medicine, National Taiwan University
+>>3.	2013 Jul-2015 Jun. Fellowship training in hematology at National Taiwan University Hospital 
+>>4.	2010 Jul-2013 Jun. Residency training in general internal medicine at National Taiwan University Hospital 
+>>5.	2004-2010 M.D. in College of Medicine, National Taiwan University
 
-#Positions
+==Positions==
 1.	2019 May-present.Attending physician, Department of Internal Medicine, National Taiwan University Hospital
 2.	2015 Jul-2019 Apr. Attending physician,  Tai-Chen Stem Cell Therapy Center, National Taiwan University and Adjunctive attending physician, National Taiwan University Hospital
 
@@ -24,7 +24,7 @@ Thesis: The Clinical Implication and Prognostic Impact of Dynamic Genetic Evolut
 5.	2022 Aug-present. Secretary general, Taiwan Society of Blood and Marrow Transplantation
 6.	2019 May-2022 Aug. Deputy secretary general, Taiwan Society of Blood and Marrow Transplantation 
 
-#Awards
+==Awards==
 1.	2022- Award for Distinguished Scientific Paper (SCI) for Young Researcher (Annual Meeting of Taiwan Society of Hematology)
 2.	2020- Award for Distinguished Scientific Paper (SCI) for Young Researcher (Annual Meeting of Taiwan Society of Hematology)
 3.	2020- Award for Distinguished Oral Presentation (Annual Meeting of Taiwan Society of Hematology)
