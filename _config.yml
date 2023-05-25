@@ -93,13 +93,13 @@ author:
   bio              : "Assistant Professor and Attending Physician at National Taiwan University Hospital"
   location         : "Taipei, Taiwan"
   employer         : 
-  googlescholar    : "https://scholar.google.com.tw/citations?user=ZkDKsLsAAAAJ&hl=en"
+  googlescholar    : 
   email            :
   uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "photos/xavierchtsai/albums"
+  flickr           : 
   facebook         : 
   foursquare       :
   github           : 
@@ -107,8 +107,8 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "xavier-cheng-hong-tsai-18557191"
-  orcid            : "http://orcid.org/0000-0002-4174-8766"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 

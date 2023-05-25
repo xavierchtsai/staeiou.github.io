@@ -5,23 +5,11 @@ excerpt: "About me"
 author_profile: true
 layout: "single"
 classes: wide
-
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-W0ZGH6HXD8"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+Xavier Cheng-Hong Tsai am a dedicated hematologist currently serving as an attending physician at [National Taiwan University Hospital](https://www.ntuh.gov.tw/ntuh/ntuhgroup.jsp). With an unwavering commitment to patient care and research, he have been actively engaged in this role since 2019. He is currently honored to hold the position of Secretary General within the [Taiwan Society of Blood and Marrow Transplantation](http://www.tbmt.org.tw/). 
+His primary areas of interest lie in acute myeloid leukemia, myelodysplastic syndrome, aplastic anemia, and hematopoietic stem cell transplantation, where he have been actively engaged in comprehensive patient care and cutting-edge research. 
 
-  gtag('config', 'G-W0ZGH6HXD8');
-</script>
-
-<meta name="google-site-verification" content="kg_eQwWzLubG-paLo2Nk7MU2-yrLnee_VTG9RyETojM" />
-
-I am a dedicated hematologist currently serving as an attending physician at [National Taiwan University Hospital](https://www.ntuh.gov.tw/ntuh/ntuhgroup.jsp). With an unwavering commitment to patient care and research, I have been actively engaged in this role since 2019. Previously, I had the privilege of working as an attending physician at the Tai-Chen Stem Cell Therapy Center, affiliated with National Taiwan University, from 2015 to 2019. My primary areas of interest lie in acute myeloid leukemia, aplastic anemia, and hematopoietic stem cell transplantation, where I have been actively engaged in comprehensive patient care and cutting-edge research. I am currently honored to hold the position of Secretary General within the [Taiwan Society of Blood and Marrow Transplantation](http://www.tbmt.org.tw/). My long-term goal is to leverage translational knowledge to enhance patients' outcomes while minimizing treatment toxicities.
-
-## My background and history
-I received my Ph.D. from the [Genome and Systems Biology Degree Program](https://ntugsb.ntu.edu.tw) at National Taiwan University and Academia Sinica under the supervision of Professor [Chien-Yu Chen](https://c4lab.bime.ntu.edu.tw/). I obtained my M.Sc. from the [Graduate Institute of Clinical Medicine](https://www.mc.ntu.edu.tw/clinicalmed) at National Taiwan University under the supervision of Professor [Hwei-Fang Tien](https://orcid.org/0000-0002-1384-5593), and my M.D. from the [National Taiwan University](https://www.mc.ntu.edu.tw/med/Index.action)
-
+## Background and history
+For research, he received his Ph.D. from the [Genome and Systems Biology Degree Program](https://ntugsb.ntu.edu.tw) at National Taiwan University and Academia Sinica under the supervision of Professor [Chien-Yu Chen](https://c4lab.bime.ntu.edu.tw/) and Professor [Hwei-Fang Tien](https://orcid.org/0000-0002-1384-5593). 
+For clinical practice, he got his M.D. from the [National Taiwan University](https://www.mc.ntu.edu.tw/med/Index.action) and completed the residency training of internal medicine and hematology/transplantation at the National Taiwan University Hospital.
