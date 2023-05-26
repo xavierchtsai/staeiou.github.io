@@ -4,18 +4,7 @@ permalink: /articles/
 author_profile: true
 classes: wide
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-W0ZGH6HXD8"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-W0ZGH6HXD8');
-</script>
-{% include base_path %}
-
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com.tw/citations?user=ZkDKsLsAAAAJ&hl=en)
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com.tw/citations?user=ZkDKsLsAAAAJ&hl=en)
 
 **2023**
 * Lo MY, <u>Tsai CH</u>, Lin CC, Tien FM, Kuo YY, Lee WH, Peng YL, Liu MC, Tseng MH, Hsu CA, Chen JE, Lin LI, Sun HI, Chuang YK, Ko BS, Tang JL, Yao M, Chou WC, Hou HA, Tien HF. **Validation of the prognostic significance of the 2022 European LeukemiaNet risk stratification system in intensive chemotherapy treated aged 18 to 65 years patients with de novo acute myeloid leukemia.** Am J Hematol. 2023 May;98(5):760 [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/36861732)
@@ -71,6 +60,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 * Hou HA, Lu JW, Lin TY, <u>Tsai CH</u>, Chou WC, Lin CC, Kuo YY, Liu CY, Tseng MH, Chiang YC, Peng YL, Tang JL, Gong ZY, Lin LI, Tien HF. **Clinico-Biological Significance of Suppressor of cytokine signaling 1 (SOCS1) Expression in Acute Myeloid Leukemia.** Blood Cancer J. 2017 Jul 28;7(7):e588 [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/28753595/)
 
 **2016**
-* Chiang Y*, <u>Tsai CH</u>* (co-first author), Kuo SH, Yao M, Li CC, Huang SY, Ko BS, Lin CT, Hou HA, Chou WC, Liu JH, Lin CC, Wu SJ, Hsu SC, Chen YC, Lin KH, Lin DT, Tien HF, Tang JL, Chen YH. **Reduced incidence of interstitial pneumonitis after allogeneic hematopoietic stem cell transplantation using a modified technique of total body irradiation.** Scientific Reports. 2016 Nov 10;6:36730 [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/27830767/)
+* Chiang Y, <u>Tsai CH</u> (co-first author), Kuo SH, Yao M, Li CC, Huang SY, Ko BS, Lin CT, Hou HA, Chou WC, Liu JH, Lin CC, Wu SJ, Hsu SC, Chen YC, Lin KH, Lin DT, Tien HF, Tang JL, Chen YH. **Reduced incidence of interstitial pneumonitis after allogeneic hematopoietic stem cell transplantation using a modified technique of total body irradiation.** Scientific Reports. 2016 Nov 10;6:36730 [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/27830767/)
 * <u>Tsai CH</u>, Hou HA, Tang JL, Liu CY, Lin CC, Chou WC, Tseng MH, Chiang YC, Kuo YY, Liu MC, Liu CW, Lin LI, Tsay W, Yao M, Li CC, Huang SY, Ko BS, Hsu SC, Chen CY, Lin CT, Wu SJ, Tien HF. **Genetic alterations and their clinical implications in older patients with acute myeloid leukemia.** Leukemia. 2016 Jul;30(7):1485-92 [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/27055875/)
 * Hou HA, Liu CY, Kuo YY, Chou WC, <u>Tsai CH</u>, Lin CC, Lin LI, Tseng MH, Chiang YC, Liu MC, Liu CW, Tang JL, Yao M, Li CC, Huang SY, Ko BS, Hsu SC, Chen CY, Lin CT, Wu SJ, Tsay W, Tien HF. **Splicing factor mutations predict poor prognosis in patients with de novo acute myeloid leukemia.** Oncotarget. 2016 Feb 23;7(8):9084-101 [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/26812887/)
