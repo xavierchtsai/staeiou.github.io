@@ -1,18 +1,8 @@
 ---
 permalink: /contact/
-title: "Contact"
 excerpt: "Contact me"
 author_profile: true
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-W0ZGH6HXD8"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-W0ZGH6HXD8');
-</script>
 
 Please find my contact information below, including my email address and other web services. While my full name is Tsai, Cheng-Hong, for ease of readability and contact, I am commonly referred to as "Xavier Cheng-Hong Tsai" in various publications and websites.
 

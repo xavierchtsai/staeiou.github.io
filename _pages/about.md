@@ -11,6 +11,6 @@ Xavier Cheng-Hong Tsai is a dedicated hematologist currently serving as an assis
 
 His primary areas of interest lie in acute myeloid leukemia, myelodysplastic syndrome, aplastic anemia, and hematopoietic stem cell transplantation, where he have been actively engaged in comprehensive patient care and cutting-edge research. <br>
 
-For research, he received his Ph.D. from the [Genome and Systems Biology Degree Program](https://ntugsb.ntu.edu.tw) at National Taiwan University and Academia Sinica under the supervision of Professor [Chien-Yu Chen](https://c4lab.bime.ntu.edu.tw/) and Professor [Hwei-Fang Tien](https://orcid.org/0000-0002-1384-5593). <br>
+He received his Ph.D. from the [Genome and Systems Biology Degree Program](https://ntugsb.ntu.edu.tw) at National Taiwan University and Academia Sinica under the supervision of Professor [Chien-Yu Chen](https://c4lab.bime.ntu.edu.tw/) and Professor [Hwei-Fang Tien](https://orcid.org/0000-0002-1384-5593). <br>
 
-For clinical practice, he got his M.D. from the [National Taiwan University](https://www.mc.ntu.edu.tw/med/Index.action) and completed the residency training of internal medicine and hematology/transplantation at the National Taiwan University Hospital.
+He obtained his M.D. from the [National Taiwan University](https://www.mc.ntu.edu.tw/med/Index.action) and completed the residency training of internal medicine and hematology/transplantation at the National Taiwan University Hospital.

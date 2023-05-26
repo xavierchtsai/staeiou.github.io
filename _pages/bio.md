@@ -1,10 +1,8 @@
 ---
-title: "Bio"
 permalink: /bio/
 author_profile: true
 classes: wide
 ---
-
 **Education and training**
 ---
 - 2016-2021 Ph.D. in Genome and Systems Biology Degree Program, National Taiwan University and Academia Sinica <br>
