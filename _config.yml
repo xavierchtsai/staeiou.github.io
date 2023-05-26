@@ -205,15 +205,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _articles
-  - scope:
-      path: ""
-      type: articles
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
       
 # Sass/SCSS
 sass:
