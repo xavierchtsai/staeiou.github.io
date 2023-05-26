@@ -1,6 +1,6 @@
 ---
 permalink: /articles/
-author_profile: true
+author_profile: false
 classes: wide
 ---
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com.tw/citations?user=ZkDKsLsAAAAJ&hl=en)
