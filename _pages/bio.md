@@ -16,16 +16,10 @@ classes: wide
 - 2004-2010 M.D. in College of Medicine, National Taiwan University <br><br>
 
 **Positions**
----
-Clinical position
 -	2019 May-present.Attending physician, Department of Internal Medicine, National Taiwan University Hospital
 -	2015 Jul-2019 Apr. Attending physician,  Tai-Chen Stem Cell Therapy Center, National Taiwan University and Adjunctive attending physician, National Taiwan University Hospital <br><br>
----
-Academic position
 -	2022 Feb-present. Assistant professor, Department of Internal Medicine, College of Medicine, National Taiwan University
 -	2017 Aug-2022 Jan. Lecturer, Department of Internal Medicine, College of Medicine, National Taiwan University<br><br>
----
-Society position
 -	2022 Aug-present. Secretary general, Taiwan Society of Blood and Marrow Transplantation
 -	2019 May-2022 Aug. Deputy secretary general, Taiwan Society of Blood and Marrow Transplantation <br><br>
 
