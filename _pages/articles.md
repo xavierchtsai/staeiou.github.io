@@ -8,7 +8,7 @@ classes: wide
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com.tw/citations?user=ZkDKsLsAAAAJ&hl=en)
 
 **2023**
-* Fleming SA, <u>Tsai CH (co-first author)<u>, Morris R, Hou HA, Wei A. **TP53 status and impact on AML prognosis within the ELN 2022 risk classification.** Blood. 2023 Aug 30 (Online ahead of print)
+* Fleming SA, <u>Tsai CH (co-first author)</u>, Morris R, Hou HA, Wei A. **TP53 status and impact on AML prognosis within the ELN 2022 risk classification.** Blood. 2023 Aug 30 (Online ahead of print)
 * Lee WH, Lin CC, Wang YH, Yao CY, Kuo YY, Tseng MH, Peng YL, Hsu CA, Sun HI, Chuang YK, Hsu CL, Tien FM, <u>Tsai CH</u>, Chou WC, Hou HA, Tien HF. **Distinct genetic landscapes and their clinical implications in younger and older patients with myelodysplastic syndromes.** Hematol Oncol. 2023 Aug;41(3):463 [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/36420747/)
 * Cheng CL, Yeh PT, Fang WQ, Ma WL, Hou HA, <u>Tsai CH</u>, Lin CP, Tien HF. **Long-term outcomes of combined intravitreal methotrexate and systemic high-dose methotrexate therapy in vitreoretinal lymphoma.** Cancer Med. 2023 Apr;12(7):8102-8111 [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/36602288/)
 * Lo MY, <u>Tsai CH</u>, Lin CC, Tien FM, Kuo YY, Lee WH, Peng YL, Liu MC, Tseng MH, Hsu CA, Chen JE, Lin LI, Sun HI, Chuang YK, Ko BS, Tang JL, Yao M, Chou WC, Hou HA, Tien HF. **Validation of the prognostic significance of the 2022 European LeukemiaNet risk stratification system in intensive chemotherapy treated aged 18 to 65 years patients with de novo acute myeloid leukemia.** Am J Hematol. 2023 May;98(5):760 [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/36861732)
