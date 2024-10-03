@@ -8,6 +8,11 @@ classes: wide
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com.tw/citations?user=ZkDKsLsAAAAJ&hl=en)
 
 **2024**
+* Lyu TW, Yung K, Chien YC, <u>Tsai CH</u>, Hou HA. **Primary myelofibrosis as the etiology of pulmonary alveolar proteinosis: a rare clinical scenario** (Corresponding author) Leukemia & Lymphoma 2024. Online ahead of print. [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/39329179/)
+* Yao CY, Lin CC, Wang YH, Kao CJ,<u>Tsai CH</u>, Hou HA, Tien HF, Hsu CL, Chou WC. **Kinome expression profiling improves risk stratification and therapeutic targeting in myelodysplastic syndromes.** Blood Adv . 2024 May 28;8(10):2442-2454. [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/38527292/) 	
+* Wang YH, Adrián Mosquera Orgueira, Lin CC, Yao CY, Lo MY,<u>Tsai CH</u>, Adolfo de la Fuente Burguera, Hou HA, Chou WC, Tien HF. **Stellae-123 gene expression signature improved risk stratification in taiwanese acute myeloid leukemia patients.** Sci Rep . 2024 May 14;14(1):11064. [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/38744924/)
+* Lee WH, Lin CC,<u>Tsai CH</u>, Tien FM, Lo MY, Tseng MH, Kuo YY, Yu SC, Liu MC, Yuan CT, Tang YT, Chuang MK, Ko BS, Tang HL, Sun HI, Chuang YK, Tien HF, Hou HA, Chou WC. **Comparison of the 2022 world health organization classification and international consensus classification in myelodysplastic syndromes/neoplasms.** Blood Cancer J . 2024 Apr 9;14(1):57. [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/38594285/) 
+* Li CC,<u>Tsai CH</u>, Huang WH, Wang TF. **Recent advancements in hematopoietic stem cell transplantation in Taiwan.** Tzu Chi Med J . 2024 Mar 26;36(2):127 [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/38645784/)
 * Tien FM, Yao CH, <u>Tsai CH</u>, Lo MY, Chen CY, Lee WH, Lin CC, Kuo YY, Peng YL, Tseng MH, Wu YS, Liu MC, Lin LI, Chuang MK, Ko BS, Yao M, Tang JL, Chou WC, Hou HA, Tien HF. **Dysregulated immune and metabolic pathways are associated with poor survival in adult acute myeloid leukemia with CEBPA bZIP in-frame mutations.** Blood Cancer J . 2024 Jan 23;14(1):15. [[Pubmed]](https://pubmed.ncbi.nlm.nih.gov/38253683/)
 
 
